@@ -34,7 +34,7 @@
 
 ![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham9&theme=dark&show_icons=true)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Pratham9?hide=ranking,theme=auto&font=&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/Pratham9?hide=ranking&theme=auto&font=&extension=null)
 
 #
 
