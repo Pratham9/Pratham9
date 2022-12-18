@@ -31,12 +31,9 @@
 <br>
 
 # 
-<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham9&theme=dark&show_icons=true" />
 
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham9&theme=dark&show_icons=true)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Pratham9?theme=dark&ext=heatmap&hide=ranking)
-</p>
+<img align="center" src="https://leetcard.jacoblin.cool/Pratham9?theme=dark&ext=heatmap&hide=ranking" />
 #
 
 <details>
