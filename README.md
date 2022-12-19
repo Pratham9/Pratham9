@@ -1,6 +1,6 @@
 # Hi! I am Pratham Goyal  
 
-**`Focused on becoming the best developer I can be.`**
+**`Focused on turning dreams in shared interactive experiences.`**
 
 - I am a indie game developer <img width="20px" src="https://cdn.betterttv.net/emote/5d20ef02e1cfde376e532cc0/1x">
 - I’m interested in creation of memorable experiences 🪄, improving life quality 🌱 and travelling ✈️.
@@ -47,8 +47,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham9&theme=dark&show_icons=true" />
 
 <br>
-
-<img align="center" src="https://leetcard.jacoblin.cool/Pratham9?theme=dark&ext=heatmap&hide=ranking" />
+<a href="https://leetcode.com/Pratham9"><img src="https://leetcard.jacoblin.cool/Pratham9?theme=dark&ext=heatmap&hide=ranking"></a>
 
 #
 
