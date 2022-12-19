@@ -2,11 +2,21 @@
 
 **`Focused on becoming the best developer I can be.`**
 
-- I am a indie game developer
-- I’m interested in creation of memorable experiences, improving life quality and travelling.
-- I’m currently working on a new Game called Metaphorming.
+- I am a indie game developer <img width="20px" src="https://cdn.betterttv.net/emote/5d20ef02e1cfde376e532cc0/1x">
+- I’m interested in creation of memorable experiences 🪄, improving life quality 🌱 and travelling ✈️.
+- I’m currently working on a new Game called Metaphorming 🪐.
 
 #
+
+### Get in Touch
+
+<p>
+   &nbsp; &nbsp; &nbsp; &nbsp;
+   <a href="mailto:goyalp09@pm.me?"><img src="https://img.shields.io/badge/Protonmail-8a90c7?style=flat-square&logo=Protonmail&logoColor=white&link=(mailto:goyalp09@pm.me?subject=Hi%Pratham,%reaching%out%to%you%from%Github!)"></a>
+   <a href="https://twitter.com/GoreKehnePerry"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2FGoreKehnePerry"></a>
+   <a href="https://www.linkedin.com/in/prathamgoyal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/prathamgoyal/"></a>
+   <a href="http://prathamgoyal.com"><img src="http://img.shields.io/badge/-prathamgoyal.com-black?style=flat-square&logo=windowsterminal"></a>
+</p>
 
 ### Languages and Tools I use.
 
@@ -27,6 +37,7 @@
 <img align="left" alt="linux" width="30px" style="padding-right:10px; padding-top: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="bash" width="30px" style="padding-right:10px; padding-top: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+<br>
 <br>
 
 #
