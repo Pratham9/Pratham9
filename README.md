@@ -3,7 +3,7 @@
 **`Focused on turning dreams in shared interactive experiences.`**
 
 - I am a indie game developer <img width="20px" src="https://cdn.betterttv.net/emote/5d20ef02e1cfde376e532cc0/1x">
-- I’m interested in creation of memorable experiences 🪄, improving life quality 🌱 and travelling ✈️.
+- I’m interested in creation of memorable experiences ✨, improving life quality 🌱 and travelling ✈️.
 - I’m currently working on a new Game called Metaphorming 🪐.
 
 #
